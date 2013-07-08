@@ -5,11 +5,7 @@ with TxSSC SSO using the OAuth 2.0 API.
 
 ## Installation
 
-Add the git repo to your project's `package.json`
-
-    "dependencies": {
-        "private": "git+ssh://git@github.com:txssc/passport-txssc.git"
-    }
+    npm install passport-txssc
 
 ## Usage
 
