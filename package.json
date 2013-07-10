@@ -1,6 +1,6 @@
 {
   "name": "passport-txssc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TxSSC authentication strategy for Passport.",
   "author": "Cody Stoltman <particlebanana@gmail.com> (http://www.particlebanana.com/)",
   "repository": {
